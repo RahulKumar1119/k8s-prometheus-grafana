@@ -15,9 +15,9 @@ stringData:
     [smtp]
     enabled = true
     host = smtp.gmail.com:587
-    user = rahulprem512@gmail.com
-    password = 9408886823
+    user = <YOUR_EMAIL_ID>
+    password = <YOUR_EMAIL_ID_PASSWORD>
     skip_verify = true
-    from_address = rahulprem512@gmail.com
+    from_address = <YOUR_EMAIL_ID>
     from_name = Grafana
 type: Opaque
